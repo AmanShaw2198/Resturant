@@ -38,6 +38,7 @@ img {
   flex-direction: column;
   align-items: start;
   justify-content: center;
+  background-color: red;
 }
 
 .hero > * {
